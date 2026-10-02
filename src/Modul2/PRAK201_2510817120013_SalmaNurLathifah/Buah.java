@@ -1,5 +1,7 @@
 package Modul2.PRAK201_2510817120013_SalmaNurLathifah;
 
+import java.util.Locale;
+
 class Buah {
     private String nama;
     private double berat;
@@ -29,7 +31,7 @@ class Buah {
     public void info(){
         this.diskon = getDiskon();
 
-        System.out.printf("" +
+        System.out.printf(Locale.US, "" +
                  "Nama Buah: %s\n" +
                  "Berat: %.2f\n" +
                  "Harga: %.2f\n" +

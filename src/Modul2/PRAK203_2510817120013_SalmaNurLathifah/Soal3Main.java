@@ -8,7 +8,7 @@ public class Soal3Main {
         p1.nama = "Roi";
         p1.asal = "Kingdom of Orvel";
         p1.setJabatan("Assasin");
-        //Tidak menambahkan assign umur
+        //Tidak ada assign umur
         p1.umur = 17;
 
 //      String salah, seharusnya nama saja

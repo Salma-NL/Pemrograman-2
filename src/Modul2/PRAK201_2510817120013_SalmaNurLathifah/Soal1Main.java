@@ -1,6 +1,6 @@
 package Modul2.PRAK201_2510817120013_SalmaNurLathifah;
 
-public class Main {
+public class Soal1Main {
     public static void main(){
         Buah apel = new Buah(
                 "Apel",

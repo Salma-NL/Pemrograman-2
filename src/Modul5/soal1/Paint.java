@@ -1,4 +1,4 @@
-package Modul5;
+package Modul5.soal1;
 
 public class Paint {
     private double coverage;
